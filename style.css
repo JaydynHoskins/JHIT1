@@ -1,0 +1,29 @@
+.mainheader
+{
+    Background-color: transparent;
+}
+
+.mainheader a:hover
+{
+    color: black;
+}
+.mainheader a
+{
+    color: black;
+}
+.mainheader .navbar-toggler-icon
+{
+    Color:dimgrey;
+}
+.mainparent
+{
+    Background-image: url(Cool.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.maincontent a
+{
+    font-family: "Comic Sans MS";
+}
